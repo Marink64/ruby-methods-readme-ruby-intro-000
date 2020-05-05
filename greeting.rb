@@ -3,3 +3,5 @@ def greeting
 end
 
 greeting
+
+variable = "ratio"
