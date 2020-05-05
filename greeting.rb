@@ -6,4 +6,4 @@ greeting
 
 variable = "ratio"
 
-variable
+puts variable
