@@ -5,3 +5,5 @@ end
 greeting
 
 variable = "ratio"
+
+variable
